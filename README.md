@@ -1,2 +1,2 @@
 ﻿# Automated_call
-Just set up twilio get a number and set the envs and you are good to go.
+Just set up twilio get a number,set the envs and you are good to go.
